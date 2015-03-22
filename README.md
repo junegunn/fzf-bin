@@ -3,6 +3,20 @@ fzf-bin
 
 Binary releases of [fzf](https://github.com/junegunn/fzf)
 
+0.9.5 (2015/03/22)
+------------------
+
+[Download](https://github.com/junegunn/fzf-bin/releases/tag/0.9.5)
+
+### Changes
+
+- Added `--ansi` option
+- Reduced initial memory footprint
+- Fixed panic on `--no-sort --filter ''`
+
+See [CHANGELOG](https://github.com/junegunn/fzf/blob/master/CHANGELOG.md#095)
+for details.
+
 0.9.4 (2015/03/01)
 ------------------
 
