@@ -3,6 +3,17 @@ fzf-bin
 
 Binary releases of [fzf](https://github.com/junegunn/fzf)
 
+0.9.6 (2015/03/29)
+------------------
+
+[Download](https://github.com/junegunn/fzf-bin/releases/tag/0.9.6)
+
+### Changes
+
+- Added `--expect` option
+- Fixed to ignore some ANSI escape sequences when `--ansi` is set
+- Fixed `--ansi` option to retain ANSI background color
+
 0.9.5 (2015/03/22)
 ------------------
 
