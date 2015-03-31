@@ -3,6 +3,18 @@ fzf-bin
 
 Binary releases of [fzf](https://github.com/junegunn/fzf)
 
+0.9.7 (2015/04/01)
+------------------
+
+[Download](https://github.com/junegunn/fzf-bin/releases/tag/0.9.7)
+
+### Changes
+
+- Added `--toggle-sort` option
+- Fixed to print empty line if `--expect` is set and fzf is completed by
+  `--select-1` or `--exit-0`
+- Fixed to allow comma character as an argument to `--expect` option
+
 0.9.6 (2015/03/29)
 ------------------
 
