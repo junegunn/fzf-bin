@@ -1,6 +1,7 @@
-fzf-bin
+~~fzf-bin~~
 =======
 
-Binary releases of [fzf](https://github.com/junegunn/fzf).
+*DEPRECATED*
 
-- [CHANGELOG](https://github.com/junegunn/fzf/blob/master/CHANGELOG.md)
+Since 0.24.0, new releases will be available in
+https://github.com/junegunn/fzf/releases
